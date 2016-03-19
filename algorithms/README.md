@@ -25,6 +25,7 @@ Python helper module for testing anaytical gradients with computed numeric gradi
 Python helper module for converting graphlab SFrame datastructure to Numpy arrays[1].
 
 
+## References
 
 [1] Coursera Machine Learning Specialization. Available at: https://www.coursera.org/specializations/machine-learning
 

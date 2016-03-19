@@ -28,6 +28,8 @@ model accuarcy through the use of boosting. We modify the binary-decision tree t
 data points. Adaboost is directly implemented and we evaluate the effect of boosting on model performance.
 
 
+## References
+
 [1] Coursera Machine Learning Specialization. Available at: https://www.coursera.org/specializations/machine-learning
 
 [2] CS231n: Convolutional Neural Networks for Visual Recognition. Available at: http://cs231n.stanford.edu/
