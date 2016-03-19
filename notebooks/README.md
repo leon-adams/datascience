@@ -29,4 +29,5 @@ data points. Adaboost is directly implemented and we evaluate the effect of boos
 
 
 [1] Coursera Machine Learning Specialization. Available at: https://www.coursera.org/specializations/machine-learning
+
 [2] CS231n: Convolutional Neural Networks for Visual Recognition. Available at: http://cs231n.stanford.edu/
